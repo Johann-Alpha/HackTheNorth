@@ -1,3 +1,6 @@
+# Created by the Four Corners team for Hack the North 2021. This is the GUI for the CiteMe programme.
+# Integration with the main algorithm is still needed
+
 import tkinter as tk
 from tkinter import scrolledtext
 from tkinter import ttk
